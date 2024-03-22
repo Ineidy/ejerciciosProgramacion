@@ -1,6 +1,0 @@
-num1 = int(input("Ingrese numero: "))
-num2 = int(input("Ingrese numero: "))
-num3 = int(input("Ingrese numero: "))
-num4 = int(input("Ingrese numero: "))
-numorden = sorted([num1, num2, num3, num4])
-print("De menor a mayor", numorden)
